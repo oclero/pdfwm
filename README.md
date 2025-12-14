@@ -1,3 +1,5 @@
+![Thumbnail](thumbnail.png)
+
 # PDF Watermark (pdfwm)
 
 A Python **library** and **command-line tool** for adding text watermarks to PDF files. Supports batch processing, custom colors, and recursive directory processing.
@@ -166,7 +168,3 @@ See [CHANGELOG.md](CHANGELOG.md) for version history.
 ## Author
 
 Olivier Cléro - <oclero@pm.me>
-
-## Acknowledgments
-
-- Built with [PyPDF2](https://github.com/py-pdf/pypdf) and [ReportLab](https://www.reportlab.com/)
