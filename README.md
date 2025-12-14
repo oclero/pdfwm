@@ -1,4 +1,8 @@
-![Thumbnail](thumbnail.png)
+<div align="center">
+<a href="https://github.com/oclero/pdfwm">
+	<img style="margin-bottom: 2em; width: 640px" src="https://raw.githubusercontent.com/oclero/pdfwm/master/thumbnail.png">
+</a>
+</div>
 
 # PDF Watermark (pdfwm)
 
@@ -15,9 +19,9 @@ A Python **library** and **command-line tool** for adding text watermarks to PDF
 - 🔧 **Library & CLI**: Use as a Python library or command-line tool
 - ✨ **Type Hints**: Full type annotation support
 
-|                  Before Watermark                   |                   After Watermark                   |
-| :-------------------------------------------------: | :-------------------------------------------------: |
-| ![Before watermark](examples/lorem-ipsum-input.png) | ![After watermark](examples/lorem-ipsum-output.png) |
+|                                             Before Watermark                                              |                                              After Watermark                                              |
+| :-------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: |
+| ![Before watermark](https://raw.githubusercontent.com/oclero/pdfwm/master/examples/lorem-ipsum-input.png) | ![After watermark](https://raw.githubusercontent.com/oclero/pdfwm/master/examples/lorem-ipsum-output.png) |
 
 ## Installation
 

@@ -9,8 +9,8 @@ description = "A Python library and CLI tool for adding text watermarks to PDF f
 readme = "README.md"
 requires-python = ">=3.8"
 license = { text = "MIT" }
-authors = [{ name = "Your Name", email = "your.email@example.com" }]
-keywords = ["pdf", "watermark", "pypdf2", "reportlab", "cli"]
+authors = [{ name = "oclero", email = "oclero@pm.me" }]
+keywords = ["pdf", "watermark", "batch", "cli", "filigrane"]
 classifiers = [
   "Development Status :: 4 - Beta",
   "Intended Audience :: Developers",
@@ -31,9 +31,9 @@ dependencies = ["PyPDF2>=3.0.0", "reportlab>=4.0.0"]
 dev = ["pytest>=7.0.0", "black>=22.0.0", "mypy>=0.990", "ruff>=0.1.0"]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/pdfwm"
-Repository = "https://github.com/yourusername/pdfwm"
-Issues = "https://github.com/yourusername/pdfwm/issues"
+Homepage = "https://github.com/oclero/pdfwm"
+Repository = "https://github.com/oclero/pdfwm"
+Issues = "https://github.com/oclero/pdfwm/issues"
 
 [project.scripts]
 pdfwm = "pdfwm.cli:main"
