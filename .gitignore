@@ -136,3 +136,4 @@ dmypy.json
 output/
 *.pdf
 input/
+upload.sh
